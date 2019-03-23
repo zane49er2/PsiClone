@@ -1,0 +1,40 @@
+{
+	"type" : "minecraft:crafting_shaped",
+	
+	"pattern" : [
+		"rgc",
+		"GDp",
+		"ICI"
+	],
+	
+	"key":{
+		"r":{
+			"item": "minecraft:repeater"
+		},
+		"g":{
+			"item": "minecraft:glass"
+		},
+		"c":{
+			"item": "minecraft:comparator"
+		},
+		"G":{
+			"item": "minecraft:gold_ingot"
+		},
+		"D":{
+			"item": "minecraft:diamond_block"
+		},
+		"p":{
+			"item": "pcm:psi_shard"
+		},
+		"I":{
+			"item": "minecraft:iron_ingot"
+		},
+		"C":{
+			"item": "minecraft:crafting_table"
+		}
+	},
+	
+	"result":{
+		"item":"pcm:assembler"
+	}
+}

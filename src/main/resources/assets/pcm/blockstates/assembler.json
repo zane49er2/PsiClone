@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "burning=false,facing=north": { "model": "pcm:assembler","y":0 },
+        "burning=false,facing=east": { "model": "pcm:assembler","y":90  },
+        "burning=false,facing=south": { "model": "pcm:assembler","y":180  },
+        "burning=false,facing=west": { "model": "pcm:assembler","y":240  },
+        "burning=true,facing=north": { "model": "pcm:assembler","y":0 },
+        "burning=true,facing=east": { "model": "pcm:assembler","y":90  },
+        "burning=true,facing=south": { "model": "pcm:assembler","y":180  },
+        "burning=true,facing=west": { "model": "pcm:assembler","y":240  }
+    }
+}

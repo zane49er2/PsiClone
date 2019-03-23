@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pcm",
+  "name": "PSICLONE",
+  "description": "A clone of PSI",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["zane49er"],
+  "credits": "Vlaskii - check spelling",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

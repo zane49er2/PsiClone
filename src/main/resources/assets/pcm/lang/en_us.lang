@@ -1,0 +1,8 @@
+item.psi_shard.name=Psitanium Shard
+item.basic_chassis.name=Basic Chassis
+item.iron_chassis.name=Iron Chassis
+item.gold_chassis.name=Gold Chassis
+item.revolving_chassis.name=Revolving Chassis
+tile.psitanium_block.name=Psitanium Block
+tile.assembler.name=PSIClone Assembler
+container.assembler=PSIClone Assembler
